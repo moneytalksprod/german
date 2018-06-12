@@ -1,0 +1,1627 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="SKY Arts HD" tvg-name="Sky Arts Hd", SKY Arts HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eurosport 2 HD Xtra" tvg-name="Eurosport 2 Hd Xtra", Eurosport 2 HD Xtra
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="eoTV" tvg-name="Eotv", eoTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NHK WORLD TV" tvg-name="Nhk World Tv", NHK WORLD TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="WELT" tvg-name="Welt", WELT
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="N24 Doku" tvg-name="N24 Doku", N24 Doku
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ONE HD" tvg-name="One Hd", ONE HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Family TV" tvg-name="Family Tv", Family TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="blizztv" tvg-name="Blizztv", blizztv
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Select HD" tvg-name="Sky Select Hd", Sky Select HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Select 1" tvg-name="Sky Select 1", Sky Select 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Select 2" tvg-name="Sky Select 2", Sky Select 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Select 3" tvg-name="Sky Select 3", Sky Select 3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Select 4" tvg-name="Sky Select 4", Sky Select 4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Select 5" tvg-name="Sky Select 5", Sky Select 5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Select 6" tvg-name="Sky Select 6", Sky Select 6
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Select 7" tvg-name="Sky Select 7", Sky Select 7
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Select 8" tvg-name="Sky Select 8", Sky Select 8
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Select 9" tvg-name="Sky Select 9", Sky Select 9
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Select Event A" tvg-name="Sky Select Event A", Sky Select Event A
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Select Event B" tvg-name="Sky Select Event B", Sky Select Event B
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Vodafone Infochannel" tvg-name="Vodafone Infochannel", Vodafone Infochannel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Das Erste" tvg-name="Das Erste", Das Erste
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ZDF" tvg-name="Zdf", ZDF
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL" tvg-name="Rtl", RTL
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SAT.1" tvg-name="Sat.1", SAT.1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ProSieben" tvg-name="Prosieben", ProSieben
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VOX" tvg-name="Vox", VOX
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL II" tvg-name="Rtl Ii", RTL II
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="kabel eins" tvg-name="Kabel Eins", kabel eins
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="3sat" tvg-name="3sat", 3sat
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ARTE" tvg-name="Arte", ARTE
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Das Erste HD" tvg-name="Das Erste Hd", Das Erste HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ZDF HD" tvg-name="Zdf Hd", ZDF HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL HD" tvg-name="Rtl Hd", RTL HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SAT.1 HD" tvg-name="Sat.1 Hd", SAT.1 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ProSieben HD" tvg-name="Prosieben Hd", ProSieben HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VOX HD" tvg-name="Vox Hd", VOX HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL II HD" tvg-name="Rtl Ii Hd", RTL II HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="kabel eins HD" tvg-name="Kabel Eins Hd", kabel eins HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ARTE HD" tvg-name="Arte Hd", ARTE HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="3sat HD" tvg-name="3sat Hd", 3sat HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ServusTV" tvg-name="Servustv", ServusTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ServusTV HD" tvg-name="Servustv Hd", ServusTV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MDR S-Anhalt" tvg-name="Mdr S-anhalt", MDR S-Anhalt
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MDR Sachsen" tvg-name="Mdr Sachsen", MDR Sachsen
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MDR Thüringen" tvg-name="Mdr Thueringen", MDR Thueringen
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NDR FS MV" tvg-name="Ndr Fs Mv", NDR FS MV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NDR FS HH" tvg-name="Ndr Fs Hh", NDR FS HH
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NDR FS NDS" tvg-name="Ndr Fs Nds", NDR FS NDS
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NDR FS SH" tvg-name="Ndr Fs Sh", NDR FS SH
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="rbb Brandenburg" tvg-name="Rbb Brandenburg", rbb Brandenburg
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="rbb Berlin" tvg-name="Rbb Berlin", rbb Berlin
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BR Süd" tvg-name="Br Sued", BR Sued
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="WDR Köln" tvg-name="Wdr Koeln", WDR Koeln
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="hr-fernsehen" tvg-name="Hr-fernsehen", hr-fernsehen
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SWR Fernsehen RP" tvg-name="Swr Fernsehen Rp", SWR Fernsehen RP
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SR Fernsehen" tvg-name="Sr Fernsehen", SR Fernsehen
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="hr-fernsehen HD" tvg-name="Hr-fernsehen Hd", hr-fernsehen HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SWR Fernsehen RP HD" tvg-name="Swr Fernsehen Rp Hd", SWR Fernsehen RP HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="WDR Köln HD" tvg-name="Wdr Koeln Hd", WDR Koeln HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BR Süd HD" tvg-name="Br Sued Hd", BR Sued HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NDR FS HH HD" tvg-name="Ndr Fs Hh Hd", NDR FS HH HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MDR Sachsen HD" tvg-name="Mdr Sachsen Hd", MDR Sachsen HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="rbb Berlin HD" tvg-name="Rbb Berlin Hd", rbb Berlin HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MDR Thüringen HD" tvg-name="Mdr Thueringen Hd", MDR Thueringen HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NDR FS MV HD" tvg-name="Ndr Fs Mv Hd", NDR FS MV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BR Nord HD" tvg-name="Br Nord Hd", BR Nord HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NDR FS NDS HD" tvg-name="Ndr Fs Nds Hd", NDR FS NDS HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NDR FS SH HD" tvg-name="Ndr Fs Sh Hd", NDR FS SH HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MDR S-Anhalt HD" tvg-name="Mdr S-anhalt Hd", MDR S-Anhalt HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="rbb Brandenburg HD" tvg-name="Rbb Brandenburg Hd", rbb Brandenburg HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SWR Fernsehen BW HD" tvg-name="Swr Fernsehen Bw Hd", SWR Fernsehen BW HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="COMEDY CENTRAL / VIVA" tvg-name="Comedy Central / Viva", COMEDY CENTRAL / VIVA
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TELE 5" tvg-name="Tele 5", TELE 5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney Channel" tvg-name="Disney Channel", Disney Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="One" tvg-name="One", One
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ZDFneo" tvg-name="Zdfneo", ZDFneo
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AstroTV" tvg-name="Astrotv", AstroTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTLplus" tvg-name="Rtlplus", RTLplus
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL NITRO" tvg-name="Rtl Nitro", RTL NITRO
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="sixx" tvg-name="Sixx", sixx
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SAT.1 Gold" tvg-name="Sat.1 Gold", SAT.1 Gold
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ProSieben MAXX" tvg-name="Prosieben Maxx", ProSieben MAXX
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TLC" tvg-name="Tlc", TLC
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ANIXE SD" tvg-name="Anixe Sd", ANIXE SD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="sixx HD" tvg-name="Sixx Hd", sixx HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL NITRO HD" tvg-name="Rtl Nitro Hd", RTL NITRO HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="E! Entertainment" tvg-name="E! Entertainment", E! Entertainment
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MTV" tvg-name="Mtv", MTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Bon Gusto" tvg-name="Bon Gusto", Bon Gusto
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL Living" tvg-name="Rtl Living", RTL Living
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TELE 5 HD" tvg-name="Tele 5 Hd", TELE 5 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MTV HD" tvg-name="Mtv Hd", MTV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="COMEDY CENTRAL/VIVA HD" tvg-name="Comedy Central/viva Hd", COMEDY CENTRAL/VIVA HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney Channel HD" tvg-name="Disney Channel Hd", Disney Channel HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sat.1 Gold HD" tvg-name="Sat.1 Gold Hd", Sat.1 Gold HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ProSieben MAXX HD" tvg-name="Prosieben Maxx Hd", ProSieben MAXX HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTLplus HD" tvg-name="Rtlplus Hd", RTLplus HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SAT.1 emotions" tvg-name="Sat.1 Emotions", SAT.1 emotions
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Animax" tvg-name="Animax", Animax
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL Living HD" tvg-name="Rtl Living Hd", RTL Living HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ProSieben FUN HD" tvg-name="Prosieben Fun Hd", ProSieben FUN HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sat.1 emotions HD" tvg-name="Sat.1 Emotions Hd", Sat.1 emotions HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ZDFneo HD" tvg-name="Zdfneo Hd", ZDFneo HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HSE24 HD" tvg-name="Hse24 Hd", HSE24 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="QVC HD" tvg-name="Qvc Hd", QVC HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="1-2-3.tv" tvg-name="1-2-3.tv", 1-2-3.tv
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HSE24" tvg-name="Hse24", HSE24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Channel21" tvg-name="Channel21", Channel21
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="sonnenklar.TV" tvg-name="Sonnenklar.tv", sonnenklar.TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="QVC" tvg-name="Qvc", QVC
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Juwelo TV" tvg-name="Juwelo Tv", Juwelo TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HSE24 EXTRA" tvg-name="Hse24 Extra", HSE24 EXTRA
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="QVC PLUS" tvg-name="Qvc Plus", QVC PLUS
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="13th Street" tvg-name="13th Street", 13th Street
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="KinoweltTV" tvg-name="Kinowelttv", KinoweltTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AXN" tvg-name="Axn", AXN
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Silverline" tvg-name="Silverline", Silverline
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="kabel eins CLASSICS" tvg-name="Kabel Eins Classics", kabel eins CLASSICS
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TNT Comedy" tvg-name="Tnt Comedy", TNT Comedy
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TNT Film" tvg-name="Tnt Film", TNT Film
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="FOX" tvg-name="Fox", FOX
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Romance TV" tvg-name="Romance Tv", Romance TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TNT Film HD" tvg-name="Tnt Film Hd", TNT Film HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="FOX HD" tvg-name="Fox Hd", FOX HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="13th Street HD" tvg-name="13th Street Hd", 13th Street HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SYFY HD" tvg-name="Syfy Hd", SYFY HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Romance TV HD" tvg-name="Romance Tv Hd", Romance TV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TNT Comedy HD" tvg-name="Tnt Comedy Hd", TNT Comedy HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="KinoweltTV HD" tvg-name="Kinowelttv Hd", KinoweltTV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AXN HD" tvg-name="Axn Hd", AXN HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Universal Channel HD" tvg-name="Universal Channel Hd", Universal Channel HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sony Entertainment TV HD" tvg-name="Sony Entertainment Tv Hd", Sony Entertainment TV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="kabel eins CLASSICS HD" tvg-name="Kabel Eins Classics Hd", kabel eins CLASSICS HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL Crime HD" tvg-name="Rtl Crime Hd", RTL Crime HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SPORT1" tvg-name="Sport1", SPORT1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eurosport 1" tvg-name="Eurosport 1", Eurosport 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eurosport 2" tvg-name="Eurosport 2", Eurosport 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SPORT1+" tvg-name="Sport1+", SPORT1+
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sport1 US" tvg-name="Sport1 Us", Sport1 US
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="sportdigital" tvg-name="Sportdigital", sportdigital
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 Hd", Eurosport 1 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eurosport 2 HD" tvg-name="Eurosport 2 Hd", Eurosport 2 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SPORT1 HD" tvg-name="Sport1 Hd", SPORT1 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SPORT1+ HD" tvg-name="Sport1+ Hd", SPORT1+ HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sport1 US HD" tvg-name="Sport1 Us Hd", Sport1 US HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="sportdigital HD" tvg-name="Sportdigital Hd", sportdigital HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ARD-alpha" tvg-name="Ard-alpha", ARD-alpha
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="DMAX" tvg-name="Dmax", DMAX
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="PLANET" tvg-name="Planet", PLANET
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Welt der Wunder" tvg-name="Welt Der Wunder", Welt der Wunder
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="kabel eins Doku" tvg-name="Kabel Eins Doku", kabel eins Doku
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HISTORY" tvg-name="History", HISTORY
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="A&E" tvg-name="A&e", A&E
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="National Geographic" tvg-name="National Geographic", National Geographic
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SPIEGEL TV WISSEN" tvg-name="Spiegel Tv Wissen", SPIEGEL TV WISSEN
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="DMAX HD" tvg-name="Dmax Hd", DMAX HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="National Geographic HD" tvg-name="National Geographic Hd", National Geographic HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="PLANET HD" tvg-name="Planet Hd", PLANET HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SPIEGEL TV WISSEN HD" tvg-name="Spiegel Tv Wissen Hd", SPIEGEL TV WISSEN HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="A&E HD" tvg-name="A&e Hd", A&E HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HISTORY HD" tvg-name="History Hd", HISTORY HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NAT GEO people" tvg-name="Nat Geo People", NAT GEO people
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Discovery HD (KD)" tvg-name="Discovery Hd (kd)", Discovery HD (KD)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="GEO TV HD" tvg-name="Geo Tv Hd", GEO TV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Bibel TV" tvg-name="Bibel Tv", Bibel TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="n-tv" tvg-name="N-tv", n-tv
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="PHOENIX" tvg-name="Phoenix", PHOENIX
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="N24" tvg-name="N24", N24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="tagesschau24" tvg-name="Tagesschau24", tagesschau24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ZDFinfo" tvg-name="Zdfinfo", ZDFinfo
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BBC World News (eng)" tvg-name="Bbc World News (eng)", BBC World News (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CNN International (eng)" tvg-name="Cnn International (eng)", CNN International (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Al Jazeera Int (eng)" tvg-name="Al Jazeera Int (eng)", Al Jazeera Int (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CNN International HD (eng)" tvg-name="Cnn International Hd (eng)", CNN International HD (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="N24 HD" tvg-name="N24 Hd", N24 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="PHOENIX HD" tvg-name="Phoenix Hd", PHOENIX HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="n-tv HD" tvg-name="N-tv Hd", n-tv HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Bibel TV HD" tvg-name="Bibel Tv Hd", Bibel TV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SUPER RTL" tvg-name="Super Rtl", SUPER RTL
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="KiKA" tvg-name="Kika", KiKA
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nickelodeon" tvg-name="Nickelodeon", Nickelodeon
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TOGGO plus" tvg-name="Toggo Plus", TOGGO plus
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Boomerang" tvg-name="Boomerang", Boomerang
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon Network", Cartoon Network
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SUPER RTL HD" tvg-name="Super Rtl Hd", SUPER RTL HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon Hd", Nickelodeon HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network Hd", Cartoon Network HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Boomerang HD" tvg-name="Boomerang Hd", Boomerang HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="KiKA HD" tvg-name="Kika Hd", KiKA HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nick Jr. HD" tvg-name="Nick Jr. Hd", Nick Jr. HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney Jr. HD" tvg-name="Disney Jr. Hd", Disney Jr. HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney XD HD" tvg-name="Disney Xd Hd", Disney XD HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Deutsches Musik Fernsehen" tvg-name="Deutsches Musik Fernsehen", Deutsches Musik Fernsehen
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="DELUXE MUSIC" tvg-name="Deluxe Music", DELUXE MUSIC
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Deluxe Music HD" tvg-name="Deluxe Music Hd", Deluxe Music HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MTV Brand New" tvg-name="Mtv Brand New", MTV Brand New
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Gute Laune TV" tvg-name="Gute Laune Tv", Gute Laune TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RCK TV" tvg-name="Rck Tv", RCK TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Jukebox" tvg-name="Jukebox", Jukebox
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="LUST PUR" tvg-name="Lust Pur", LUST PUR
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MovieMax Turk (tur)" tvg-name="Moviemax Turk (tur)", MovieMax Turk (tur)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Turkmax gurme (tur)" tvg-name="Turkmax Gurme (tur)", Turkmax gurme (tur)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="tv8 (tur)" tvg-name="Tv8 (tur)", tv8 (tur)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Show Turk (tur)" tvg-name="Show Turk (tur)", Show Turk (tur)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CNN TÜRK (tur)" tvg-name="Cnn Tuerk (tur)", CNN TUeRK (tur)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Euro D (tur)" tvg-name="Euro D (tur)", Euro D (tur)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Kanal 7 Avrupa (tur)" tvg-name="Kanal 7 Avrupa (tur)", Kanal 7 Avrupa (tur)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Euro Star (tur)" tvg-name="Euro Star (tur)", Euro Star (tur)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV Polonia (pol)" tvg-name="Tv Polonia (pol)", TV Polonia (pol)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="iTVN (pol)" tvg-name="Itvn (pol)", iTVN (pol)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTVD (rus)" tvg-name="Rtvd (rus)", RTVD (rus)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Kinomir (rus)" tvg-name="Kinomir (rus)", Kinomir (rus)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Telebom/Teledom (rus)" tvg-name="Telebom/teledom (rus)", Telebom/Teledom (rus)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Channel One Russia (rus)" tvg-name="Channel One Russia (rus)", Channel One Russia (rus)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTR-Planeta (rus)" tvg-name="Rtr-planeta (rus)", RTR-Planeta (rus)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="France 2 (fre)" tvg-name="France 2 (fre)", France 2 (fre)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV 5 Monde (fre)" tvg-name="Tv 5 Monde (fre)", TV 5 Monde (fre)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="France 3 (fre)" tvg-name="France 3 (fre)", France 3 (fre)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="France 24 (fre)" tvg-name="France 24 (fre)", France 24 (fre)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SONLife (eng)" tvg-name="Sonlife (eng)", SONLife (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TNT Serie (eng)" tvg-name="Tnt Serie (eng)", TNT Serie (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TNT Film (eng)" tvg-name="Tnt Film (eng)", TNT Film (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AXN (eng)" tvg-name="Axn (eng)", AXN (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BBC Entertainment (eng)" tvg-name="Bbc Entertainment (eng)", BBC Entertainment (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="National Geographic (eng)" tvg-name="National Geographic (eng)", National Geographic (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sport1 US (eng)" tvg-name="Sport1 Us (eng)", Sport1 US (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney XD (eng)" tvg-name="Disney Xd (eng)", Disney XD (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney Junior (eng)" tvg-name="Disney Junior (eng)", Disney Junior (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Boomerang (eng)" tvg-name="Boomerang (eng)", Boomerang (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Cartoon Network (eng)" tvg-name="Cartoon Network (eng)", Cartoon Network (eng)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai 1 (ita)" tvg-name="Rai 1 (ita)", Rai 1 (ita)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai 2 (ita)" tvg-name="Rai 2 (ita)", Rai 2 (ita)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai 3 (ita)" tvg-name="Rai 3 (ita)", Rai 3 (ita)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVE Internacional (spa)" tvg-name="Tve Internacional (spa)", TVE Internacional (spa)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Canal 24 Horas (spa)" tvg-name="Canal 24 Horas (spa)", Canal 24 Horas (spa)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTP Internacional (por)" tvg-name="Rtp Internacional (por)", RTP Internacional (por)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HRT 1 (hrv)" tvg-name="Hrt 1 (hrv)", HRT 1 (hrv)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic Hd", Sky Atlantic HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky1HD" tvg-name="Sky1hd", Sky1HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Cinema HD" tvg-name="Sky Cinema Hd", Sky Cinema HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Cinema Hits HD" tvg-name="Sky Cinema Hits Hd", Sky Cinema Hits HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Cinema Action HD" tvg-name="Sky Cinema Action Hd", Sky Cinema Action HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney Cinemagic HD" tvg-name="Disney Cinemagic Hd", Disney Cinemagic HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic", Sky Atlantic
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Cinema" tvg-name="Sky Cinema", Sky Cinema
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Cinema +1" tvg-name="Sky Cinema +1", Sky Cinema +1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Cinema +24" tvg-name="Sky Cinema +24", Sky Cinema +24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Cinema Hits" tvg-name="Sky Cinema Hits", Sky Cinema Hits
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Cinema Action" tvg-name="Sky Cinema Action", Sky Cinema Action
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Cinema Comedy" tvg-name="Sky Cinema Comedy", Sky Cinema Comedy
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Cinema Emotion" tvg-name="Sky Cinema Emotion", Sky Cinema Emotion
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Cinema Nostalgie" tvg-name="Sky Cinema Nostalgie", Sky Cinema Nostalgie
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney Cinemagic" tvg-name="Disney Cinemagic", Disney Cinemagic
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NatGeo HD" tvg-name="Natgeo Hd", NatGeo HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NatGeo Wild HD" tvg-name="Natgeo Wild Hd", NatGeo Wild HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Discovery HD" tvg-name="Discovery Hd", Discovery HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Fox HD" tvg-name="Fox Hd", Fox HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky1" tvg-name="Sky1", Sky1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TNT Serie HD" tvg-name="Tnt Serie Hd", TNT Serie HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Krimi" tvg-name="Sky Krimi", Sky Krimi
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL Crime" tvg-name="Rtl Crime", RTL Crime
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL Passion" tvg-name="Rtl Passion", RTL Passion
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Fox Serie" tvg-name="Fox Serie", Fox Serie
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TNT Serie" tvg-name="Tnt Serie", TNT Serie
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SYFY" tvg-name="Syfy", SYFY
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Beate-Uhse.TV" tvg-name="Beate-uhse.tv", Beate-Uhse.TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Heimatkanal" tvg-name="Heimatkanal", Heimatkanal
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Goldstar TV" tvg-name="Goldstar Tv", Goldstar TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Classica" tvg-name="Classica", Classica
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney XD" tvg-name="Disney Xd", Disney XD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney Junior" tvg-name="Disney Junior", Disney Junior
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Junior" tvg-name="Junior", Junior
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Discovery Channel" tvg-name="Discovery Channel", Discovery Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NatGeo Wild" tvg-name="Natgeo Wild", NatGeo Wild
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Spiegel Geschichte" tvg-name="Spiegel Geschichte", Spiegel Geschichte
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Cinema Family" tvg-name="Sky Cinema Family", Sky Cinema Family
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport News HD" tvg-name="Sky Sport News Hd", Sky Sport News HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 1 HD" tvg-name="Sky Sport Bundesliga 1 Hd", Sky Sport Bundesliga 1 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 2 HD" tvg-name="Sky Sport Bundesliga 2 Hd", Sky Sport Bundesliga 2 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 3 HD" tvg-name="Sky Sport Bundesliga 3 Hd", Sky Sport Bundesliga 3 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 4 HD" tvg-name="Sky Sport Bundesliga 4 Hd", Sky Sport Bundesliga 4 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport 1 HD" tvg-name="Sky Sport 1 Hd", Sky Sport 1 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport 2 HD" tvg-name="Sky Sport 2 Hd", Sky Sport 2 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport 3 HD" tvg-name="Sky Sport 3 Hd", Sky Sport 3 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport 4 HD" tvg-name="Sky Sport 4 Hd", Sky Sport 4 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport 5 HD" tvg-name="Sky Sport 5 Hd", Sky Sport 5 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eurosport360 HD1" tvg-name="Eurosport360 Hd1", Eurosport360 HD1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eurosport360 HD2" tvg-name="Eurosport360 Hd2", Eurosport360 HD2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eurosport360 HD3" tvg-name="Eurosport360 Hd3", Eurosport360 HD3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport News" tvg-name="Sky Sport News", Sky Sport News
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 1" tvg-name="Sky Sport Bundesliga 1", Sky Sport Bundesliga 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport 1" tvg-name="Sky Sport 1", Sky Sport 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport 2" tvg-name="Sky Sport 2", Sky Sport 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sport Austria" tvg-name="Sky Sport Austria", Sky Sport Austria
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Zee.One" tvg-name="Zee.one", Zee.One
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: On Demand" tvg-name="At: On Demand", AT: On Demand
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF eins" tvg-name="At: Orf Eins", AT: ORF eins
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF 2 Wien" tvg-name="At: Orf 2 Wien", AT: ORF 2 Wien
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ATV" tvg-name="At: Atv", AT: ATV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: PULS 4" tvg-name="At: Puls 4", AT: PULS 4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: W24" tvg-name="At: W24", AT: W24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sixx Austria" tvg-name="At: Sixx Austria", AT: Sixx Austria
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Servus TV" tvg-name="At: Servus Tv", AT: Servus TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: OKTO" tvg-name="At: Okto", AT: OKTO
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: UPC Infokanal" tvg-name="At: Upc Infokanal", AT: UPC Infokanal
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Das Erste" tvg-name="At: Das Erste", AT: Das Erste
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ZDF" tvg-name="At: Zdf", AT: ZDF
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF III" tvg-name="At: Orf Iii", AT: ORF III
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ProSieben" tvg-name="At: Prosieben", AT: ProSieben
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RTL" tvg-name="At: Rtl", AT: RTL
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: SAT1" tvg-name="At: Sat1", AT: SAT1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RTL II" tvg-name="At: Rtl Ii", AT: RTL II
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: kabel eins" tvg-name="At: Kabel Eins", AT: kabel eins
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: VOX" tvg-name="At: Vox", AT: VOX
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ATV II" tvg-name="At: Atv Ii", AT: ATV II
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: 3sat" tvg-name="At: 3sat", AT: 3sat
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: BR" tvg-name="At: Br", AT: BR
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: MDR" tvg-name="At: Mdr", AT: MDR
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: SWR" tvg-name="At: Swr", AT: SWR
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: NDR" tvg-name="At: Ndr", AT: NDR
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: WDR" tvg-name="At: Wdr", AT: WDR
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: hessen fernsehen" tvg-name="At: Hessen Fernsehen", AT: hessen fernsehen
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RBB Fernsehen" tvg-name="At: Rbb Fernsehen", AT: RBB Fernsehen
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: arte" tvg-name="At: Arte", AT: arte
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RTL Nitro" tvg-name="At: Rtl Nitro", AT: RTL Nitro
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Pro7 Maxx" tvg-name="At: Pro7 Maxx", AT: Pro7 Maxx
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: SAT1 Gold" tvg-name="At: Sat1 Gold", AT: SAT1 Gold
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF 2 Steiermark" tvg-name="At: Orf 2 Steiermark", AT: ORF 2 Steiermark
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF 2 Kärnten" tvg-name="At: Orf 2 Kaernten", AT: ORF 2 Kaernten
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF 2 Nö" tvg-name="At: Orf 2 Noe", AT: ORF 2 Noe
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF 2 Oberösterreich" tvg-name="At: Orf 2 Oberoesterreich", AT: ORF 2 Oberoesterreich
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF 2 Burgenland" tvg-name="At: Orf 2 Burgenland", AT: ORF 2 Burgenland
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF 2 Salzburg" tvg-name="At: Orf 2 Salzburg", AT: ORF 2 Salzburg
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF 2 Vorarlberg" tvg-name="At: Orf 2 Vorarlberg", AT: ORF 2 Vorarlberg
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF 2 Tirol" tvg-name="At: Orf 2 Tirol", AT: ORF 2 Tirol
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF 2 EUROPA" tvg-name="At: Orf 2 Europa", AT: ORF 2 EUROPA
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Tirol TV" tvg-name="At: Tirol Tv", AT: Tirol TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: KT 1" tvg-name="At: Kt 1", AT: KT 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Ländle TV" tvg-name="At: Laendle Tv", AT: Laendle TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Schau TV" tvg-name="At: Schau Tv", AT: Schau TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: N24 Austria" tvg-name="At: N24 Austria", AT: N24 Austria
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: DMAX" tvg-name="At: Dmax", AT: DMAX
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Comedy CentralVIVA" tvg-name="At: Comedy Centralviva", AT: Comedy CentralVIVA
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: BBC Entertainment" tvg-name="At: Bbc Entertainment", AT: BBC Entertainment
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: TELE 5" tvg-name="At: Tele 5", AT: TELE 5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: 13TH STREET" tvg-name="At: 13th Street", AT: 13TH STREET
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Syfy" tvg-name="At: Syfy", AT: Syfy
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Kinowelt TV" tvg-name="At: Kinowelt Tv", AT: Kinowelt TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RTL Crime" tvg-name="At: Rtl Crime", AT: RTL Crime
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RTL Passion" tvg-name="At: Rtl Passion", AT: RTL Passion
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: kabel eins classics" tvg-name="At: Kabel Eins Classics", AT: kabel eins classics
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Romance TV" tvg-name="At: Romance Tv", AT: Romance TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: TNT Serie" tvg-name="At: Tnt Serie", AT: TNT Serie
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: FOX" tvg-name="At: Fox", AT: FOX
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Krimi" tvg-name="At: Sky Krimi", AT: Sky Krimi
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF eins HD" tvg-name="At: Orf Eins Hd", AT: ORF eins HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF 2 Wien HD" tvg-name="At: Orf 2 Wien Hd", AT: ORF 2 Wien HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ATV HD" tvg-name="At: Atv Hd", AT: ATV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: PULS 4 HD" tvg-name="At: Puls 4 Hd", AT: PULS 4 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Servus TV HD" tvg-name="At: Servus Tv Hd", AT: Servus TV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF III HD" tvg-name="At: Orf Iii Hd", AT: ORF III HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ProSieben HD" tvg-name="At: Prosieben Hd", AT: ProSieben HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: SAT1 HD" tvg-name="At: Sat1 Hd", AT: SAT1 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: kabel eins HD" tvg-name="At: Kabel Eins Hd", AT: kabel eins HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Das Erste HD" tvg-name="At: Das Erste Hd", AT: Das Erste HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ZDF HD" tvg-name="At: Zdf Hd", AT: ZDF HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RTL HD" tvg-name="At: Rtl Hd", AT: RTL HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RTL II HD" tvg-name="At: Rtl Ii Hd", AT: RTL II HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: VOX HD" tvg-name="At: Vox Hd", AT: VOX HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RTL Nitro HD" tvg-name="At: Rtl Nitro Hd", AT: RTL Nitro HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: W24 HD" tvg-name="At: W24 Hd", AT: W24 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: SRF zwei HD" tvg-name="At: Srf Zwei Hd", AT: SRF zwei HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ZDF neo HD" tvg-name="At: Zdf Neo Hd", AT: ZDF neo HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: arte HD" tvg-name="At: Arte Hd", AT: arte HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: 3sat HD" tvg-name="At: 3sat Hd", AT: 3sat HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: BR HD" tvg-name="At: Br Hd", AT: BR HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Phoenix HD" tvg-name="At: Phoenix Hd", AT: Phoenix HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ZDF info HD" tvg-name="At: Zdf Info Hd", AT: ZDF info HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: EinsFestival HD" tvg-name="At: Einsfestival Hd", AT: EinsFestival HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: EinsPlus HD" tvg-name="At: Einsplus Hd", AT: EinsPlus HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: MDR HD" tvg-name="At: Mdr Hd", AT: MDR HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: SWR HD" tvg-name="At: Swr Hd", AT: SWR HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: SRF 1 HD" tvg-name="At: Srf 1 Hd", AT: SRF 1 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: History HD" tvg-name="At: History Hd", AT: History HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Animal Planet HD" tvg-name="At: Animal Planet Hd", AT: Animal Planet HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Nat Geo People HD" tvg-name="At: Nat Geo People Hd", AT: Nat Geo People HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Universal Channel HD" tvg-name="At: Universal Channel Hd", AT: Universal Channel HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Syfy HD" tvg-name="At: Syfy Hd", AT: Syfy HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: 13TH STREET HD" tvg-name="At: 13th Street Hd", AT: 13TH STREET HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: TNT Serie HD" tvg-name="At: Tnt Serie Hd", AT: TNT Serie HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: FOX HD" tvg-name="At: Fox Hd", AT: FOX HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RTL Crime HD" tvg-name="At: Rtl Crime Hd", AT: RTL Crime HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Kinowelt TV HD" tvg-name="At: Kinowelt Tv Hd", AT: Kinowelt TV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Discovery Channel HD" tvg-name="At: Discovery Channel Hd", AT: Discovery Channel HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Nat Geo HD" tvg-name="At: Nat Geo Hd", AT: Nat Geo HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Planet HD" tvg-name="At: Planet Hd", AT: Planet HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RTL Living HD" tvg-name="At: Rtl Living Hd", AT: RTL Living HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Romance TV HD" tvg-name="At: Romance Tv Hd", AT: Romance TV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RTL Passion HD" tvg-name="At: Rtl Passion Hd", AT: RTL Passion HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: FashionTV HD" tvg-name="At: Fashiontv Hd", AT: FashionTV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Bongusto HD" tvg-name="At: Bongusto Hd", AT: Bongusto HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Classica HD" tvg-name="At: Classica Hd", AT: Classica HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Travel Channel HD" tvg-name="At: Travel Channel Hd", AT: Travel Channel HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: AE HD" tvg-name="At: Ae Hd", AT: AE HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: E HD" tvg-name="At: E Hd", AT: E HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: KIKA HD" tvg-name="At: Kika Hd", AT: KIKA HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Cartoon Network HD" tvg-name="At: Cartoon Network Hd", AT: Cartoon Network HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Super RTL HD" tvg-name="At: Super Rtl Hd", AT: Super RTL HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF Sport HD" tvg-name="At: Orf Sport Hd", AT: ORF Sport HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sport 1 HD" tvg-name="At: Sport 1 Hd", AT: Sport 1 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Eurosport 1 HD" tvg-name="At: Eurosport 1 Hd", AT: Eurosport 1 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sport1 HD" tvg-name="At: Sport1 Hd", AT: Sport1 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sport 1 US HD" tvg-name="At: Sport 1 Us Hd", AT: Sport 1 US HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: sportdigital HD" tvg-name="At: Sportdigital Hd", AT: sportdigital HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ORF Sport" tvg-name="At: Orf Sport", AT: ORF Sport
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Eurosport 1" tvg-name="At: Eurosport 1", AT: Eurosport 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sport 1" tvg-name="At: Sport 1", AT: Sport 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Eurosport 2" tvg-name="At: Eurosport 2", AT: Eurosport 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sport 1 US" tvg-name="At: Sport 1 Us", AT: Sport 1 US
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Auto Motor und Sport Channel" tvg-name="At: Auto Motor Und Sport Channel", AT: Auto Motor und Sport Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Extreme Sports Channel" tvg-name="At: Extreme Sports Channel", AT: Extreme Sports Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Eurosport 1 Polska" tvg-name="At: Eurosport 1 Polska", AT: Eurosport 1 Polska
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Eurosport 1 Turkce" tvg-name="At: Eurosport 1 Turkce", AT: Eurosport 1 Turkce
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Eurosport 1 Srbija" tvg-name="At: Eurosport 1 Srbija", AT: Eurosport 1 Srbija
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: QVC" tvg-name="At: Qvc", AT: QVC
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: HSE24" tvg-name="At: Hse24", AT: HSE24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: 123tv" tvg-name="At: 123tv", AT: 123tv
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: HSE24 Extra" tvg-name="At: Hse24 Extra", AT: HSE24 Extra
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Melodie TV" tvg-name="At: Melodie Tv", AT: Melodie TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: QVC Plus" tvg-name="At: Qvc Plus", AT: QVC Plus
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: QVC Beauty  Style" tvg-name="At: Qvc Beauty  Style", AT: QVC Beauty  Style
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RTL Living" tvg-name="At: Rtl Living", AT: RTL Living
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: E" tvg-name="At: E", AT: E
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: FashionTV" tvg-name="At: Fashiontv", AT: FashionTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: CBS Reality" tvg-name="At: Cbs Reality", AT: CBS Reality
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: KIKA" tvg-name="At: Kika", AT: KIKA
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Nickelodeon" tvg-name="At: Nickelodeon", AT: Nickelodeon
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Super RTL" tvg-name="At: Super Rtl", AT: Super RTL
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Fix  Foxi" tvg-name="At: Fix  Foxi", AT: Fix  Foxi
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Disney Channel" tvg-name="At: Disney Channel", AT: Disney Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Baby TV" tvg-name="At: Baby Tv", AT: Baby TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: JIM JAM" tvg-name="At: Jim Jam", AT: JIM JAM
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Nick Junior" tvg-name="At: Nick Junior", AT: Nick Junior
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Cartoon Network" tvg-name="At: Cartoon Network", AT: Cartoon Network
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RiC" tvg-name="At: Ric", AT: RiC
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ntv" tvg-name="At: Ntv", AT: ntv
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Euronews" tvg-name="At: Euronews", AT: Euronews
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: BBC World" tvg-name="At: Bbc World", AT: BBC World
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: CNN" tvg-name="At: Cnn", AT: CNN
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: CNBC" tvg-name="At: Cnbc", AT: CNBC
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Russia today" tvg-name="At: Russia Today", AT: Russia today
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: CCTV News" tvg-name="At: Cctv News", AT: CCTV News
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Bloomberg Europe TV" tvg-name="At: Bloomberg Europe Tv", AT: Bloomberg Europe TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Al Jazeera" tvg-name="At: Al Jazeera", AT: Al Jazeera
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: France 24" tvg-name="At: France 24", AT: France 24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: 24 Vesti news" tvg-name="At: 24 Vesti News", AT: 24 Vesti news
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Travel Channel" tvg-name="At: Travel Channel", AT: Travel Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Discovery Channel" tvg-name="At: Discovery Channel", AT: Discovery Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: History Channel" tvg-name="At: History Channel", AT: History Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: National Geographic" tvg-name="At: National Geographic", AT: National Geographic
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: AE" tvg-name="At: Ae", AT: AE
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Animal Planet" tvg-name="At: Animal Planet", AT: Animal Planet
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Planet" tvg-name="At: Planet", AT: Planet
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Phoenix" tvg-name="At: Phoenix", AT: Phoenix
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: tagesschau24" tvg-name="At: Tagesschau24", AT: tagesschau24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: EinsFestival" tvg-name="At: Einsfestival", AT: EinsFestival
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: EinsPlus" tvg-name="At: Einsplus", AT: EinsPlus
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ARD alpha" tvg-name="At: Ard Alpha", AT: ARD alpha
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ZDF info" tvg-name="At: Zdf Info", AT: ZDF info
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ZDF neo" tvg-name="At: Zdf Neo", AT: ZDF neo
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: ZDFkultur" tvg-name="At: Zdfkultur", AT: ZDFkultur
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: gotv" tvg-name="At: Gotv", AT: gotv
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: MTV" tvg-name="At: Mtv", AT: MTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: MTV Rocks" tvg-name="At: Mtv Rocks", AT: MTV Rocks
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: MTV Dance" tvg-name="At: Mtv Dance", AT: MTV Dance
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: MTVhits" tvg-name="At: Mtvhits", AT: MTVhits
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: VH1 Europe" tvg-name="At: Vh1 Europe", AT: VH1 Europe
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: VH1 Classic" tvg-name="At: Vh1 Classic", AT: VH1 Classic
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Gute Laune TV" tvg-name="At: Gute Laune Tv", AT: Gute Laune TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: TV5Monde Europe" tvg-name="At: Tv5monde Europe", AT: TV5Monde Europe
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RAI Uno" tvg-name="At: Rai Uno", AT: RAI Uno
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RAI Due" tvg-name="At: Rai Due", AT: RAI Due
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: TVE" tvg-name="At: Tve", AT: TVE
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RTR Planeta" tvg-name="At: Rtr Planeta", AT: RTR Planeta
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: EDTV 1" tvg-name="At: Edtv 1", AT: EDTV 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: CCTV4" tvg-name="At: Cctv4", AT: CCTV4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: HRT TV 1" tvg-name="At: Hrt Tv 1", AT: HRT TV 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: RTS Sat" tvg-name="At: Rts Sat", AT: RTS Sat
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: TV Polonia" tvg-name="At: Tv Polonia", AT: TV Polonia
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Duna TV" tvg-name="At: Duna Tv", AT: Duna TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: TRT International" tvg-name="At: Trt International", AT: TRT International
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Hayat" tvg-name="At: Hayat", AT: Hayat
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Pink Plus" tvg-name="At: Pink Plus", AT: Pink Plus
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Pink Extra" tvg-name="At: Pink Extra", AT: Pink Extra
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Pink Film" tvg-name="At: Pink Film", AT: Pink Film
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Pink Music" tvg-name="At: Pink Music", AT: Pink Music
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Playboy TV" tvg-name="At: Playboy Tv", AT: Playboy TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Hustler TV" tvg-name="At: Hustler Tv", AT: Hustler TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Evil Angel HD" tvg-name="At: Evil Angel Hd", AT: Evil Angel HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Disney XD" tvg-name="At: Disney Xd", AT: Disney XD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Disney Junior" tvg-name="At: Disney Junior", AT: Disney Junior
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Atlantic HD" tvg-name="At: Sky Atlantic Hd", AT: Sky Atlantic HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Cinema HD" tvg-name="At: Sky Cinema Hd", AT: Sky Cinema HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Hits HD" tvg-name="At: Sky Hits Hd", AT: Sky Hits HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Disney Cinemagic HD" tvg-name="At: Disney Cinemagic Hd", AT: Disney Cinemagic HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: MGM HD" tvg-name="At: Mgm Hd", AT: MGM HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Cinema" tvg-name="At: Sky Cinema", AT: Sky Cinema
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Cinema 1" tvg-name="At: Sky Cinema 1", AT: Sky Cinema 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Cinema 24" tvg-name="At: Sky Cinema 24", AT: Sky Cinema 24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Hits" tvg-name="At: Sky Hits", AT: Sky Hits
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Action" tvg-name="At: Sky Action", AT: Sky Action
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Emotion" tvg-name="At: Sky Emotion", AT: Sky Emotion
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Nostalgie" tvg-name="At: Sky Nostalgie", AT: Sky Nostalgie
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Comedy" tvg-name="At: Sky Comedy", AT: Sky Comedy
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Disney Cinemagic" tvg-name="At: Disney Cinemagic", AT: Disney Cinemagic
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Sport Austria HD" tvg-name="At: Sky Sport Austria Hd", AT: Sky Sport Austria HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Sport News HD" tvg-name="At: Sky Sport News Hd", AT: Sky Sport News HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Bundesliga HD 1" tvg-name="At: Sky Bundesliga Hd 1", AT: Sky Bundesliga HD 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Bundesliga HD 2" tvg-name="At: Sky Bundesliga Hd 2", AT: Sky Bundesliga HD 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Bundesliga HD 3" tvg-name="At: Sky Bundesliga Hd 3", AT: Sky Bundesliga HD 3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Bundesliga HD 4" tvg-name="At: Sky Bundesliga Hd 4", AT: Sky Bundesliga HD 4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Bundesliga HD 5" tvg-name="At: Sky Bundesliga Hd 5", AT: Sky Bundesliga HD 5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Bundesliga HD 6" tvg-name="At: Sky Bundesliga Hd 6", AT: Sky Bundesliga HD 6
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Bundesliga HD 7" tvg-name="At: Sky Bundesliga Hd 7", AT: Sky Bundesliga HD 7
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Bundesliga HD 8" tvg-name="At: Sky Bundesliga Hd 8", AT: Sky Bundesliga HD 8
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Bundesliga HD 9" tvg-name="At: Sky Bundesliga Hd 9", AT: Sky Bundesliga HD 9
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Bundesliga HD 10" tvg-name="At: Sky Bundesliga Hd 10", AT: Sky Bundesliga HD 10
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Sport News" tvg-name="At: Sky Sport News", AT: Sky Sport News
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Atlantic" tvg-name="At: Sky Atlantic", AT: Sky Atlantic
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Sport 1" tvg-name="At: Sky Sport 1", AT: Sky Sport 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Sport 2" tvg-name="At: Sky Sport 2", AT: Sky Sport 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Sport 3" tvg-name="At: Sky Sport 3", AT: Sky Sport 3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Sport 4" tvg-name="At: Sky Sport 4", AT: Sky Sport 4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Sport 5" tvg-name="At: Sky Sport 5", AT: Sky Sport 5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Sport 6" tvg-name="At: Sky Sport 6", AT: Sky Sport 6
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Sport 7" tvg-name="At: Sky Sport 7", AT: Sky Sport 7
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Sport 8" tvg-name="At: Sky Sport 8", AT: Sky Sport 8
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Sport 9" tvg-name="At: Sky Sport 9", AT: Sky Sport 9
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Sport 10" tvg-name="At: Sky Sport 10", AT: Sky Sport 10
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AT: Sky Sport 11" tvg-name="At: Sky Sport 11", AT: Sky Sport 11
+http://example.site/example.video.path
